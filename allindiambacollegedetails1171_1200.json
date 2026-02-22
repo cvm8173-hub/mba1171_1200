@@ -1035,7 +1035,7 @@
                 "total_tuition_fees": "₹50K",
                 "eligibility": [
                   "Undergraduate Degree with 50% aggregate",
-                  "Accepting Exams:CEETA, GATE"
+                  "Accepting Exams:GATE, CEETA"
                 ],
                 "description": "Sengunthar Engineering College M.E./M.Techis offered to candidates at the PG level. Candidates are required to participate in the entrance-based admission process to be considered for the final admission offer. Candidates are shortlisted for the M.E./M.Tech programme based on their performance in the entrance exam. Candidates who qualify in the admission process are eligible to secure their seat in the 2 years programme.",
                 "faqs": [
@@ -1452,7 +1452,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -2029,6 +2029,16 @@
           },
           "articles": [
             {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
               "title": "GATE 2026 Qualifying Marks: Expected Cutoff Marks and Previous Year's Trends",
               "link": "https://www.shiksha.com/engineering/articles/gate-qualifying-marks-blogId-221876",
               "author_name": "UPASANA PRADHAN",
@@ -2055,7 +2065,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -2065,7 +2075,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -2085,7 +2095,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -2097,16 +2107,6 @@
               "image": "",
               "views": "3.7L Views",
               "comments": "2 Comments"
-            },
-            {
-              "title": "TANCET 2026 Exam Day Guidelines: Do's and Dont's, Preparation Checklist",
-              "link": "https://www.shiksha.com/mba/articles/tancet-exam-day-guidelines-blogId-26377",
-              "author_name": "Abhishek Dhawan",
-              "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
-              "date": "Feb 19, 2026",
-              "image": "",
-              "views": "6.6K Views",
-              "comments": ""
             },
             {
               "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
@@ -2125,7 +2125,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -2199,21 +2199,21 @@
               "comments": ""
             },
             {
-              "title": "Tamil Nadu 12th Public Exam Time Table 2026 (Released): Download TN 12th Std Time Table PDF",
-              "link": "https://www.shiksha.com/boards/tamilnadu-12th-board-timetable",
-              "author_name": "Salviya Antony",
-              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
-              "date": "Feb 9, 2026",
-              "image": "",
-              "views": "1.3L Views",
-              "comments": ""
-            },
-            {
               "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
               "author_name": "Anangsha Patra",
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 17, 2026",
+              "image": "",
+              "views": "1.3L Views",
+              "comments": ""
+            },
+            {
+              "title": "Tamil Nadu 12th Public Exam Time Table 2026 (Released): Download TN 12th Std Time Table PDF",
+              "link": "https://www.shiksha.com/boards/tamilnadu-12th-board-timetable",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Feb 9, 2026",
               "image": "",
               "views": "1.3L Views",
               "comments": ""
@@ -2225,7 +2225,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             }
           ]
@@ -2310,14 +2310,95 @@
           "placements": {
             "overview": "South Point Institute of Technology & Management is a private institute, established in 2008 in Sonepat, Haryana. South Point Institute of Technology & Management is approved by AICTE and offers a total of 21 courses at UG and PG levels in 6 specialisations such as Civil Engineering, Computer Science Engineering, Electrical Engineering, Electronics & Communication Engineering and Mechanical Engineering. Furthermore, it offer courses such as B.E. / B.Tech, M.E./M.Tech, MBA/PGDM, MCA and BCA in both Full Time and Part Time modes. South Point Institute of Technology & Management fee structure includes a total tuition fee ranging from INR 56,100 to 1,80,000. South Point Institute of Technology & Management has an annual seat intake of 1008 for all the programmes. It offers courses, in streams such as Engineering, Business & Management Studies and IT & Software. The institute has a safe and well-equipped campus with all the advanced facilities.",
             "course_wise_data": [],
-            "top_recruiters": [],
+            "top_recruiters": [
+              "Infosys",
+              "Wipro",
+              "Microsoft",
+              "Airtel",
+              "IBM",
+              "HCL",
+              "Hindustan Unilever",
+              "ACCENTURE",
+              "HDFC Bank",
+              "CITI Bank",
+              "Nvidia Corporation",
+              "Texas Instrument",
+              "Tech Mahindra",
+              "Dell",
+              "L T",
+              "Mahindra and Mahindra",
+              "GODREJ",
+              "ITC",
+              "Vodafone",
+              "FORTIS Healthcare",
+              "Reliance Industries Limited",
+              "SAP",
+              "PepsiCo",
+              "Asian Paints",
+              "Tata Motors",
+              "Taj Group of Hotels"
+            ],
             "student_insights": [],
             "faqs": [],
             "key_statistics": {}
           },
           "fees_and_eligibility": {
-            "overview": "Overview not available",
-            "courses_table": [],
+            "overview": "South Point Institute of Technology & Management provides Full Time and Part Time programs at the UG and PG levels. These courses are available in multiple streams like Engineering, Business & Management Studies and IT & Software, and have a fee structure of around INR 56,100 to 1,80,000. UG programs include B.E. / B.Tech, BCA and BBA. Further, the PG programs include M.E./M.Tech, MBA/PGDM and MCA.",
+            "courses_table": [
+              {
+                "course_name": "B.E. / B.Tech",
+                "course_count": 5,
+                "tuition_fees": "1.7 L - 1.8 L",
+                "eligibility": {
+                  "exams": [
+                    "HSTES",
+                    "JEE Main"
+                  ]
+                },
+                "link": "https://www.shiksha.com/college/south-point-institute-of-technology-management-sonepat-40381/courses/be-btech-bc"
+              },
+              {
+                "course_name": "MBA/PGDM",
+                "course_count": 1,
+                "tuition_fees": "1.4 L",
+                "eligibility": {
+                  "graduation_percentage": "50%"
+                },
+                "link": "https://www.shiksha.com/college/south-point-institute-of-technology-management-sonepat-40381/courses/mba-pgdm-bc"
+              },
+              {
+                "course_name": "BBA",
+                "course_count": 1,
+                "tuition_fees": "90 K",
+                "eligibility": {
+                  "exams": [
+                    "CBSE 12th",
+                    "ISC"
+                  ]
+                },
+                "link": "https://www.shiksha.com/college/south-point-institute-of-technology-management-sonepat-40381/courses/bba-bc"
+              },
+              {
+                "course_name": "M.E./M.Tech",
+                "course_count": 4,
+                "tuition_fees": "1.4 L",
+                "eligibility": {
+                  "graduation_percentage": "50%"
+                },
+                "link": "https://www.shiksha.com/college/south-point-institute-of-technology-management-sonepat-40381/courses/me-mtech-bc"
+              },
+              {
+                "course_name": "UG Diploma",
+                "course_count": 6,
+                "tuition_fees": "56.1 K - 60 K",
+                "eligibility": {
+                  "exams": [
+                    "HSTES"
+                  ]
+                },
+                "link": "https://www.shiksha.com/college/south-point-institute-of-technology-management-sonepat-40381/courses/ug-diploma-bc"
+              }
+            ],
             "faqs": [],
             "key_statistics": {}
           },
@@ -2563,8 +2644,8 @@
               }
             },
             {
-              "faq_number": 2,
-              "question": "XIME Bangalore",
+              "faq_number": 6,
+              "question": "JBIMS Mumbai",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -2574,7 +2655,7 @@
             },
             {
               "faq_number": 7,
-              "question": "JBIMS Mumbai",
+              "question": "XIME Bangalore",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -2727,14 +2808,14 @@
                 "hostel_fees": "-/-"
               },
               {
+                "college": "School of Engineering and Technology",
+                "tuition_fees": "1.74 L",
+                "hostel_fees": "90 K"
+              },
+              {
                 "college": "DPGITM",
                 "tuition_fees": "1.76 L",
                 "hostel_fees": "1.48 L"
-              },
-              {
-                "college": "Ambalika Institute of Management and Technology",
-                "tuition_fees": "1.79 L",
-                "hostel_fees": "-/-"
               }
             ],
             "course_faqs": []
@@ -3214,7 +3295,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -3307,7 +3388,7 @@
           "logo": "https://images.shiksha.ws/pwa/public/images/ctpV2/default.svg",
           "cover_image": "https://images.shiksha.com/mediadata/images/1496129154phpGYhghO_g.jpg",
           "videos_count": 0,
-          "photos_count": 26,
+          "photos_count": 25,
           "rating": "3.7",
           "reviews_count": 12,
           "qa_count": null,
@@ -3743,6 +3824,36 @@
           },
           "articles": [
             {
+              "title": "JEE Main Form Correction 2026 Session 2 (Feb 27 to 28): Link, Procedure, Fees, How to Edit",
+              "link": "https://www.shiksha.com/engineering/articles/jee-main-application-form-and-image-correction-blogId-19439",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.4L Views",
+              "comments": "56 Comments"
+            },
+            {
+              "title": "JEE Main 2026 Session 2 Registration Last Date (Feb 25): Form Link @ jeemain.nta.nic.in",
+              "link": "https://www.shiksha.com/engineering/articles/jee-mains-2026-session-2-registration-blogId-219798",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "5.8K Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
+              "link": "https://www.shiksha.com/engineering/jee-main-exam",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.9L Views",
+              "comments": ""
+            },
+            {
               "title": "CBSE Exam Class 12 2026: Date Sheet, Syllabus, Question Papers, Analysis, Pattern, Result",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board",
               "author_name": "Anangsha Patra",
@@ -3759,7 +3870,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -3779,7 +3890,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -3803,43 +3914,13 @@
               "comments": ""
             },
             {
-              "title": "List of colleges for 50-60 Percentile in JEE Main: Check list of Top Colleges here",
-              "link": "https://www.shiksha.com/engineering/articles/list-of-colleges-for-50-60-percentile-in-jee-main-blogId-222394",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 19, 2026",
+              "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
+              "author_name": "Anangsha Patra",
+              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "11.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "List of colleges for 40-50 Percentile in JEE Main: Top Colleges List here",
-              "link": "https://www.shiksha.com/engineering/articles/list-of-colleges-for-40-50-percentile-in-jee-main-blogId-222342",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 19, 2026",
-              "image": "",
-              "views": "16.9K Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
-              "image": "",
-              "views": "1.9L Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main Question Papers 2026 (OUT): Download All Shift Wise PDF and Check Solutions",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam-question-papers",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 4, 2026",
-              "image": "",
-              "views": "3.6L Views",
+              "views": "1.3L Views",
               "comments": ""
             },
             {
@@ -3913,11 +3994,11 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
               "link": "https://www.shiksha.com/engineering/jee-main-exam",
               "author_name": "Mamona Majumder",
               "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
+              "date": "Feb 21, 2026",
               "image": "",
               "views": "1.9L Views",
               "comments": ""
@@ -4025,148 +4106,16 @@
             }
           ],
           "placements": {
-            "overview": "Students can work with faculty on research projects",
-            "course_wise_data": [
-              {
-                "median_salary": "₹3.53 LPA",
-                "name": "B.E. / B.Tech"
-              },
-              {
-                "median_salary": "₹3.6 LPA",
-                "name": "M.E./M.Tech"
-              }
-            ],
-            "top_recruiters": [
-              "TCS",
-              "Cognizant",
-              "LIC",
-              "Infosys",
-              "HCL",
-              "Genpact",
-              "Sutherland",
-              "Google",
-              "Future Generali",
-              "Indian Navy",
-              "Mphasis"
-            ],
-            "student_insights": [
-              {
-                "category": "Internships and industry projects",
-                "feedback": "Students can work with faculty on research projects"
-              },
-              {
-                "category": "Internships and industry projects",
-                "feedback": "Offered in the final year only"
-              },
-              {
-                "category": "Employment opportunities",
-                "feedback": "Higher in core jobs"
-              },
-              {
-                "category": "Higher studies preferences",
-                "feedback": "Majority opted in India"
-              },
-              {
-                "category": "Placement support",
-                "feedback": "Organized & proactive placement process"
-              },
-              {
-                "category": "Alumni network",
-                "feedback": "Strong alumni network that help with placement opportunities"
-              },
-              {
-                "category": "Entrepreneurship cell",
-                "feedback": "Very Active and resourceful, college is also involved"
-              },
-              {
-                "category": "Overall feeling of students",
-                "feedback": "Love being in college"
-              }
-            ],
-            "faqs": [
-              {
-                "answer": "A:    As per Shiksha verified reviews, Dadi Institute of Engineering and Technology has an impressive review rating of 3.26 by 130 students.",
-                "question": "How is the placement facility at Dadi Institute of Engineering and Technology?"
-              }
-            ],
+            "overview": "Established in 2006, Dadi Institute of Engineering and Technology is a private institute in Visakhapatnam, Andhra Pradesh. The institute is approved by the AICTE. At the UG, PG and After 10th levels, the institute offers 20 courses across 6 specialisations in Full Time mode. The popular Dadi Institute of Engineering and Technology programs include B.E. / B.Tech, M.E./M.Tech, MBA/PGDM, MCA and BCA. Dadi Institute of Engineering and Technology courses are provided in several streams including Engineering, Business & Management Studies and IT & Software, etc. The institute has a total seat intake of 1242 students. The fees at Dadi Institute of Engineering and Technology ranges between INR 54,000 to 1,89,600 for the different courses. Dadi Institute of Engineering and Technology placements are vibrant, with the average median salary standing at around INR 3,55,333. The institute has a well-laid infrastructure with multiple facilities.",
+            "course_wise_data": [],
+            "top_recruiters": [],
+            "student_insights": [],
+            "faqs": [],
             "key_statistics": {}
           },
           "fees_and_eligibility": {
-            "overview": "Dadi Institute of Engineering and Technology offers a wide range of programmes to students at the UG and PG levels. The college is mainly concerned with streams such as Engineering, Business & Management Studies and IT & Software. At the UG level, the college offers courses such as B.E. / B.Tech, BCA and UG Diploma. At the PG level, the college offers courses such as M.E./M.Tech, MBA/PGDM and MCA. Dadi Institute of Engineering and Technology courses are offered to students in Full Time mode. Further, the fees structure for Dadi Institute of Engineering and Technology courses stands around INR 54,000 to 1,89,600.",
-            "courses_table": [
-              {
-                "course_name": "B.E. / B.Tech",
-                "course_count": 8,
-                "tuition_fees": "1.9 L",
-                "eligibility": {
-                  "exams": [
-                    "AP EAMCET"
-                  ]
-                },
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/be-btech-bc"
-              },
-              {
-                "course_name": "MBA/PGDM",
-                "course_count": 1,
-                "tuition_fees": "74.4 K",
-                "eligibility": {
-                  "graduation_percentage": "50%",
-                  "exams": [
-                    "APICET"
-                  ]
-                },
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/mba-pgdm-bc"
-              },
-              {
-                "course_name": "After 10th Diploma",
-                "course_count": 4,
-                "tuition_fees": "72 K",
-                "eligibility": {
-                  "exams": [
-                    "AP POLYCET"
-                  ]
-                },
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/after-10th-diploma-bc"
-              },
-              {
-                "course_name": "M.E./M.Tech",
-                "course_count": 4,
-                "tuition_fees": "86 K - 1.2 L",
-                "eligibility": {
-                  "graduation_percentage": "50%",
-                  "exams": [
-                    "AP PGECET",
-                    "GATE"
-                  ]
-                },
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/me-mtech-bc"
-              },
-              {
-                "course_name": "UG Diploma",
-                "course_count": 1,
-                "tuition_fees": "72 K",
-                "eligibility": {
-                  "exams": [
-                    "AP POLYCET"
-                  ]
-                },
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/ug-diploma-bc"
-              },
-              {
-                "course_name": "BCA",
-                "course_count": 1,
-                "tuition_fees": "54 K",
-                "eligibility": "– / –",
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/bca-bc"
-              },
-              {
-                "course_name": "MCA",
-                "course_count": 1,
-                "tuition_fees": "70 K",
-                "eligibility": "– / –",
-                "link": "https://www.shiksha.com/college/dadi-institute-of-engineering-and-technology-visakhapatnam-43058/courses/mca-bc"
-              }
-            ],
+            "overview": "Overview not available",
+            "courses_table": [],
             "faqs": [
               {
                 "answer": "A:    The fees range for courses offerred by the Dadi Institute of Engineering and Technology is around INR 71600 - INR 172000.",
@@ -4445,8 +4394,8 @@
               }
             },
             {
-              "faq_number": 2,
-              "question": "XIME Bangalore",
+              "faq_number": 6,
+              "question": "JBIMS Mumbai",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -4456,7 +4405,7 @@
             },
             {
               "faq_number": 7,
-              "question": "JBIMS Mumbai",
+              "question": "XIME Bangalore",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -5201,7 +5150,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -5846,6 +5795,16 @@
           },
           "articles": [
             {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
               "title": "GATE 2026 Qualifying Marks: Expected Cutoff Marks and Previous Year's Trends",
               "link": "https://www.shiksha.com/engineering/articles/gate-qualifying-marks-blogId-221876",
               "author_name": "UPASANA PRADHAN",
@@ -5862,7 +5821,7 @@
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "12.2K Views",
+              "views": "12.1K Views",
               "comments": ""
             },
             {
@@ -5882,7 +5841,7 @@
               "author_link": "https://www.shiksha.com/author/Dhanya121321",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "9.8K Views",
+              "views": "10K Views",
               "comments": ""
             },
             {
@@ -5902,7 +5861,7 @@
               "author_link": "https://www.shiksha.com/author/Saakshi176685",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "18.9K Views",
+              "views": "19K Views",
               "comments": ""
             },
             {
@@ -5912,7 +5871,7 @@
               "author_link": "https://www.shiksha.com/author/Dhanya121321",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "9.9K Views",
+              "views": "10K Views",
               "comments": ""
             },
             {
@@ -5922,17 +5881,7 @@
               "author_link": "https://www.shiksha.com/author/Ahmed61923",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "10.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "GATE 2026 Cutoff for ECE: Expected Marks, Previous Year Cut off",
-              "link": "https://www.shiksha.com/engineering/articles/gate-2026-cutoff-for-ece-blogId-222122",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 15, 2026",
-              "image": "",
-              "views": "6K Views",
+              "views": "10.4K Views",
               "comments": ""
             },
             {
@@ -6012,7 +5961,7 @@
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
               "date": "Feb 1, 2026",
               "image": "",
-              "views": "26.1K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -6042,7 +5991,7 @@
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "12.2K Views",
+              "views": "12.1K Views",
               "comments": ""
             }
           ]
@@ -6093,19 +6042,19 @@
               ],
               "faqs": [
                 {
-                  "question": "What are the BCom specialisations offered by G.S. College of Commerce?",
+                  "question": "",
                   "answer": ""
                 },
                 {
-                  "question": "What are the documents required to fill out the application form for G.S. College of Commerce?",
+                  "question": "",
                   "answer": ""
                 },
                 {
-                  "question": "How does GS College Wardha allot seats for the BCom to students?",
+                  "question": "",
                   "answer": ""
                 },
                 {
-                  "question": "What are the specialisations available for BCom at GS College Wardha?",
+                  "question": "",
                   "answer": ""
                 }
               ]
@@ -6670,9 +6619,9 @@
                 "hostel_fees": "-/-"
               },
               {
-                "college": "K.K.Wagh Arts,Commerce,Science and Computer Science College",
-                "tuition_fees": "15.9 K",
-                "hostel_fees": "-/-"
+                "college": "Punyashlok Ahilyadevi Holkar Solapur University",
+                "tuition_fees": "5 K - 9.09 K",
+                "hostel_fees": "4 K"
               },
               {
                 "college": "VPIMSR",
@@ -7028,7 +6977,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -7550,7 +7499,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "50.6K Views",
+              "views": "50.9K Views",
               "comments": ""
             },
             {
@@ -7570,7 +7519,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -7590,7 +7539,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -7640,7 +7589,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -7858,12 +7807,9 @@
                 "is_verified": false,
                 "overall_rating": "",
                 "category_ratings": [],
-                "review_title": "I am satisfied to take admission in this college and this profession #shiksha har cheej me chupi hai",
-                "review_content": {
-                  "Placements": "For the admission in my college therw is no need of any percentage but students qualify the entrance exam to take admission. Almost 1 Lacs are the average package and the highest are not more than 3lakh Right now I don't know about the company which is top. But yes kind or small companies came for intervening the Student .",
-                  "Infrastructure": "Let me tell the honest review the infrastructure is too good of my college. If any students want to SEE they realised that this is the proper infrastructure But I don't think so the good in hostel are good There is no hygiene in the hostel No water filtration ."
-                },
-                "review_date": "7 Feb 2025",
+                "review_title": "",
+                "review_content": {},
+                "review_date": "",
                 "helpful_count": 0,
                 "has_photos": false,
                 "photo_urls": []
@@ -8800,7 +8746,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -8824,7 +8770,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -9103,7 +9049,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -9123,7 +9069,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -9153,7 +9099,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "11.3K Views",
+              "views": "11.5K Views",
               "comments": ""
             },
             {
@@ -9173,7 +9119,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -9183,7 +9129,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -9273,7 +9219,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -9283,7 +9229,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             }
           ]
@@ -10086,7 +10032,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -10377,7 +10323,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -10387,7 +10333,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -10407,7 +10353,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -10427,7 +10373,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "11.3K Views",
+              "views": "11.5K Views",
               "comments": ""
             },
             {
@@ -10457,7 +10403,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "18K Views",
+              "views": "18.2K Views",
               "comments": ""
             },
             {
@@ -10547,17 +10493,17 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
-              "title": "CBSE 12th Question Papers 2026 (Out): Download Question Papers PDFs Here",
-              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-question-papers",
-              "author_name": "Anangsha Patra",
-              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
-              "date": "Feb 20, 2026",
+              "title": "Kerala Plus Two Exam Dates 2026 (Announced): Check Kerala 12th Board Exam Dates Here",
+              "link": "https://www.shiksha.com/boards/kerala-12th-board-dates",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Feb 13, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.7K Views",
               "comments": ""
             }
           ]
@@ -11360,7 +11306,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -11821,7 +11767,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 13, 2026",
               "image": "",
-              "views": "22.1K Views",
+              "views": "22.2K Views",
               "comments": ""
             },
             {
@@ -11841,7 +11787,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 9, 2026",
               "image": "",
-              "views": "10K Views",
+              "views": "10.2K Views",
               "comments": ""
             },
             {
@@ -11861,7 +11807,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Jan 27, 2026",
               "image": "",
-              "views": "32.8K Views",
+              "views": "33.1K Views",
               "comments": ""
             },
             {
@@ -11901,7 +11847,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Jan 27, 2026",
               "image": "",
-              "views": "32.8K Views",
+              "views": "33.1K Views",
               "comments": ""
             },
             {
@@ -11911,7 +11857,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 13, 2026",
               "image": "",
-              "views": "22.1K Views",
+              "views": "22.2K Views",
               "comments": ""
             },
             {
@@ -11941,7 +11887,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 9, 2026",
               "image": "",
-              "views": "10K Views",
+              "views": "10.2K Views",
               "comments": ""
             },
             {
@@ -11971,7 +11917,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 13, 2026",
               "image": "",
-              "views": "3.4K Views",
+              "views": "3.6K Views",
               "comments": ""
             },
             {
@@ -12095,10 +12041,10 @@
               },
               {
                 "review_id": "240345",
-                "student_name": "",
-                "batch_info": "",
+                "student_name": "Akshar Shinde",
+                "batch_info": "B.E. in Mechanical Engineering - Batch of 2018",
                 "is_verified": true,
-                "overall_rating": "",
+                "overall_rating": "3.2",
                 "category_ratings": [],
                 "review_title": "I'm satisfied with what I have paid them and what I got from them, and no any issues with them.",
                 "review_content": {
@@ -12134,11 +12080,8 @@
                 "is_verified": true,
                 "overall_rating": "2.4",
                 "category_ratings": [],
-                "review_title": "A below average college for engineering - RSCOE, Chiplun.",
-                "review_content": {
-                  "Placements": "If you really care about placement, then this college will be the wrong choice. For the last two senior batches, there was zero percent placement offered from the college. Also, for internship, the college is not helping the students at all. There was no stipend offered to the student from the college placement. Some of the senior students attended placements in nearby colleges but they did not get any offers because they might have priority for their own college students.",
-                  "Infrastructure": "I do not know the exact current condition but in my batch, there was no internet facility in the computer labs. The classrooms were okay, not up to the mark. The college building was a little old and not well maintained. Also, the walls were not painted. There was no medical facility. We used to play and arrange sports competitions through our own contribution. We had not got any help from the college management. The canteen was pathetic. The hostel was below average. We had faced a lot of water and electricity issues."
-                },
+                "review_title": "",
+                "review_content": {},
                 "review_date": "",
                 "helpful_count": 0,
                 "has_photos": false,
@@ -12162,7 +12105,7 @@
             "video_reviews": [],
             "review_summary": {
               "average_overall_rating": 3.2,
-              "total_reviews_analyzed": 2,
+              "total_reviews_analyzed": 3,
               "category_averages": {},
               "verified_reviews_count": 5,
               "reviews_with_photos": 0
@@ -12716,7 +12659,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -13071,7 +13014,7 @@
               "author_link": "https://www.shiksha.com/author/Mamona194186",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "5.4K Views",
+              "views": "5.8K Views",
               "comments": ""
             },
             {
@@ -13101,7 +13044,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "50.6K Views",
+              "views": "50.9K Views",
               "comments": ""
             },
             {
@@ -13121,7 +13064,7 @@
               "author_link": "https://www.shiksha.com/author/Ahmed61923",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "11.2K Views",
+              "views": "12.1K Views",
               "comments": ""
             },
             {
@@ -13131,7 +13074,7 @@
               "author_link": "https://www.shiksha.com/author/Ahmed61923",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "16.9K Views",
+              "views": "18.2K Views",
               "comments": ""
             },
             {
@@ -13141,7 +13084,7 @@
               "author_link": "https://www.shiksha.com/author/Ahmed61923",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "16.2K Views",
+              "views": "26.1K Views",
               "comments": ""
             },
             {
@@ -13331,19 +13274,19 @@
               ],
               "faqs": [
                 {
-                  "question": "",
+                  "question": "Is MBA available at PRIST University?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "Does PRIST offer any scholarships for students pursuing undegraduate programmes at the university?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What are the general documents required for admission at Ponnaiyah Ramajayam Institute of Science and Technology?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "Are there any government jobs that I can seek after completing BCom at PRIST University?",
                   "answer": ""
                 }
               ]
@@ -14870,7 +14813,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -15377,7 +15320,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -15387,7 +15330,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -15407,7 +15350,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -15437,7 +15380,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "11.3K Views",
+              "views": "11.5K Views",
               "comments": ""
             },
             {
@@ -15457,7 +15400,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -15531,21 +15474,21 @@
               "comments": ""
             },
             {
-              "title": "Tamil Nadu 12th Public Exam Time Table 2026 (Released): Download TN 12th Std Time Table PDF",
-              "link": "https://www.shiksha.com/boards/tamilnadu-12th-board-timetable",
-              "author_name": "Salviya Antony",
-              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
-              "date": "Feb 9, 2026",
-              "image": "",
-              "views": "1.3L Views",
-              "comments": ""
-            },
-            {
               "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
               "author_name": "Anangsha Patra",
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 17, 2026",
+              "image": "",
+              "views": "1.3L Views",
+              "comments": ""
+            },
+            {
+              "title": "Tamil Nadu 12th Public Exam Time Table 2026 (Released): Download TN 12th Std Time Table PDF",
+              "link": "https://www.shiksha.com/boards/tamilnadu-12th-board-timetable",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Feb 9, 2026",
               "image": "",
               "views": "1.3L Views",
               "comments": ""
@@ -15557,7 +15500,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             }
           ]
@@ -16272,7 +16215,9 @@
             {
               "review_id": "162619",
               "user_name": "Sumit Satyendra",
-              "verified": true
+              "verified": true,
+              "course": "Post Graduate Diploma in Management (PGDM) - Batch of 2018",
+              "overall_rating": "4.6"
             }
           ]
         }
@@ -16506,7 +16451,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -17211,7 +17156,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -17231,7 +17176,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -17261,7 +17206,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "16.5K Views",
+              "views": "17K Views",
               "comments": "1 Comment"
             },
             {
@@ -17281,7 +17226,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "1.9L Views",
+              "views": "2L Views",
               "comments": ""
             },
             {
@@ -17361,7 +17306,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "1.9L Views",
+              "views": "2L Views",
               "comments": ""
             },
             {
@@ -17442,11 +17387,11 @@
               ],
               "faqs": [
                 {
-                  "question": "Is NGF College of Engineering and Technology a good college/Institute?",
+                  "question": "",
                   "answer": ""
                 },
                 {
-                  "question": "Which courses does NGF College of Engineering and Technology offer?",
+                  "question": "",
                   "answer": ""
                 }
               ]
@@ -17513,18 +17458,13 @@
             "key_statistics": {}
           },
           "fees_and_eligibility": {
-            "overview": "NGF College of Engineering and Technology offers various programmes at UG and PG levels. Students can choose Full Time courses from plethora of streams such as Engineering, Business & Management Studies and IT & Software. At the UG level, students can choose from courses, namely B.E. / B.Tech, BCA and BBA. On the other hand, at the PG level, the NGF College of Engineering and Technology offers M.E./M.Tech and MBA/PGDM. The fees for NGF College of Engineering and Technology courses range between INR 76,000 to 1,84,000.",
+            "overview": "",
             "courses_table": [
               {
-                "course_name": "B.E. / B.Tech",
-                "course_count": 14,
-                "tuition_fees": "76 K - 1.8 L",
-                "eligibility": {
-                  "exams": [
-                    "HSTES",
-                    "JEE Main"
-                  ]
-                },
+                "course_name": "",
+                "course_count": null,
+                "tuition_fees": "",
+                "eligibility": "",
                 "link": "https://www.shiksha.com/college/ngf-college-of-engineering-and-technology-faridabad-32561/courses/be-btech-bc"
               },
               {
@@ -18012,9 +17952,9 @@
                 "hostel_fees": "2.2 L"
               },
               {
-                "college": "DPG Degree College",
-                "tuition_fees": "1.95 L",
-                "hostel_fees": "-/-"
+                "college": "BMGI",
+                "tuition_fees": "1.8 L",
+                "hostel_fees": "1.8 L"
               }
             ],
             "course_faqs": []
@@ -18507,7 +18447,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -18600,7 +18540,7 @@
           "logo": "https://images.shiksha.com/mediadata/images/1676523788php5afIIU.jpeg",
           "cover_image": "https://images.shiksha.com/mediadata/images/1676523921phpcs98aL_1280x960.jpg",
           "videos_count": 2,
-          "photos_count": 39,
+          "photos_count": 38,
           "rating": "3.0",
           "reviews_count": 39,
           "qa_count": null,
@@ -19327,6 +19267,36 @@
           },
           "articles": [
             {
+              "title": "JEE Main Form Correction 2026 Session 2 (Feb 27 to 28): Link, Procedure, Fees, How to Edit",
+              "link": "https://www.shiksha.com/engineering/articles/jee-main-application-form-and-image-correction-blogId-19439",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.4L Views",
+              "comments": "56 Comments"
+            },
+            {
+              "title": "JEE Main 2026 Session 2 Registration Last Date (Feb 25): Form Link @ jeemain.nta.nic.in",
+              "link": "https://www.shiksha.com/engineering/articles/jee-mains-2026-session-2-registration-blogId-219798",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "5.8K Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
+              "link": "https://www.shiksha.com/engineering/jee-main-exam",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.9L Views",
+              "comments": ""
+            },
+            {
               "title": "CBSE Exam Class 12 2026: Date Sheet, Syllabus, Question Papers, Analysis, Pattern, Result",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board",
               "author_name": "Anangsha Patra",
@@ -19343,7 +19313,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -19363,7 +19333,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -19387,43 +19357,13 @@
               "comments": ""
             },
             {
-              "title": "List of colleges for 50-60 Percentile in JEE Main: Check list of Top Colleges here",
-              "link": "https://www.shiksha.com/engineering/articles/list-of-colleges-for-50-60-percentile-in-jee-main-blogId-222394",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 19, 2026",
+              "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
+              "author_name": "Anangsha Patra",
+              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "11.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "List of colleges for 40-50 Percentile in JEE Main: Top Colleges List here",
-              "link": "https://www.shiksha.com/engineering/articles/list-of-colleges-for-40-50-percentile-in-jee-main-blogId-222342",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 19, 2026",
-              "image": "",
-              "views": "16.9K Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
-              "image": "",
-              "views": "1.9L Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main Question Papers 2026 (OUT): Download All Shift Wise PDF and Check Solutions",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam-question-papers",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 4, 2026",
-              "image": "",
-              "views": "3.6L Views",
+              "views": "1.3L Views",
               "comments": ""
             },
             {
@@ -19497,11 +19437,11 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
               "link": "https://www.shiksha.com/engineering/jee-main-exam",
               "author_name": "Mamona Majumder",
               "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
+              "date": "Feb 21, 2026",
               "image": "",
               "views": "1.9L Views",
               "comments": ""
@@ -19824,8 +19764,8 @@
               }
             },
             {
-              "faq_number": 2,
-              "question": "XIME Bangalore",
+              "faq_number": 6,
+              "question": "JBIMS Mumbai",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -19835,7 +19775,7 @@
             },
             {
               "faq_number": 7,
-              "question": "JBIMS Mumbai",
+              "question": "XIME Bangalore",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -20348,7 +20288,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -20639,7 +20579,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -20659,7 +20599,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -20679,7 +20619,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "11.3K Views",
+              "views": "11.5K Views",
               "comments": ""
             },
             {
@@ -20709,7 +20649,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "94.3K Views",
+              "views": "94.7K Views",
               "comments": ""
             },
             {
@@ -20719,7 +20659,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 11, 2026",
               "image": "",
-              "views": "99.7K Views",
+              "views": "1L Views",
               "comments": ""
             },
             {
@@ -21726,7 +21666,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -22085,7 +22025,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "50.6K Views",
+              "views": "50.9K Views",
               "comments": ""
             },
             {
@@ -22095,7 +22035,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "17.6K Views",
+              "views": "18K Views",
               "comments": ""
             },
             {
@@ -22115,7 +22055,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -22125,7 +22065,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -22145,7 +22085,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -22165,7 +22105,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "11.3K Views",
+              "views": "11.5K Views",
               "comments": ""
             },
             {
@@ -22265,7 +22205,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -22275,7 +22215,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             }
           ]
@@ -22792,8 +22732,8 @@
                 "hostel_fees": "-/-"
               },
               {
-                "college": "AFMC Pune",
-                "tuition_fees": "68 K",
+                "college": "ICRI - Nanavati Hospital, Mumbai",
+                "tuition_fees": "70 K",
                 "hostel_fees": "-/-"
               }
             ],
@@ -22911,7 +22851,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -22935,7 +22875,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -23019,7 +22959,7 @@
           "logo": "https://images.shiksha.com/mediadata/images/1418621526phpasVmSN.jpeg",
           "cover_image": "https://images.shiksha.com/mediadata/images/1620022455phpwD8avD_1280x960.jpg",
           "videos_count": 0,
-          "photos_count": 16,
+          "photos_count": 14,
           "rating": null,
           "reviews_count": null,
           "qa_count": null,
@@ -23163,7 +23103,7 @@
             "cover_image": "https://images.shiksha.com/mediadata/images/1418621526phpasVmSN.jpeg",
             "videos_count": 0,
             "photos_count": 0,
-            "rating": null,
+            "rating": "4.6",
             "reviews_count": null,
             "qa_count": 3,
             "location": "Dhankawadi",
@@ -23172,6 +23112,26 @@
             "established_year": null
           },
           "articles": [
+            {
+              "title": "NEET PG Counselling 2025 (Stray Round): Allotment Result (Out), Dates, Reporting, Seat Matrix, Cutoff",
+              "link": "https://www.shiksha.com/medicine-health-sciences/neet-pg-exam-counselling",
+              "author_name": "Mukul Kumar Mishra",
+              "author_link": "https://www.shiksha.com/author/Mukul161751",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "97.1K Views",
+              "comments": ""
+            },
+            {
+              "title": "NEET PG 2025: Stray Round Result (Out), Choice Filling, Dates, Seat Matrix, Cutoff",
+              "link": "https://www.shiksha.com/medicine-health-sciences/neet-pg-exam",
+              "author_name": "Mukul Kumar Mishra",
+              "author_link": "https://www.shiksha.com/author/Mukul161751",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "37.7K Views",
+              "comments": ""
+            },
             {
               "title": "CBSE Exam Class 12 2026: Date Sheet, Syllabus, Question Papers, Analysis, Pattern, Result",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board",
@@ -23189,7 +23149,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -23199,7 +23159,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -23209,7 +23169,7 @@
               "author_link": "https://www.shiksha.com/author/Ishita1621833175",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "70.1K Views",
+              "views": "70.2K Views",
               "comments": "4 Comments"
             },
             {
@@ -23229,7 +23189,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -23251,26 +23211,6 @@
               "image": "",
               "views": "3.7L Views",
               "comments": "2 Comments"
-            },
-            {
-              "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
-              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
-              "author_name": "Anangsha Patra",
-              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
-              "date": "Feb 17, 2026",
-              "image": "",
-              "views": "1.3L Views",
-              "comments": ""
-            },
-            {
-              "title": "NEET PG 2025 Cut off (Revised); Check Category-wise Reduced Cutoff Percentile",
-              "link": "https://www.shiksha.com/medicine-health-sciences/neet-pg-exam-cutoff",
-              "author_name": "Mukul Kumar Mishra",
-              "author_link": "https://www.shiksha.com/author/Mukul161751",
-              "date": "Feb 17, 2026",
-              "image": "",
-              "views": "41K Views",
-              "comments": ""
             },
             {
               "title": "Last 5 Years CBSE Class 12 Physics Question Papers PDF Download: Check Important Topics & Weightages",
@@ -23353,13 +23293,13 @@
               "comments": ""
             },
             {
-              "title": "NEET PG Counselling 2025 (Stray Round): Registration (Started), Dates, Reporting, Seat Matrix, Cutoff, Allotment Result",
+              "title": "NEET PG Counselling 2025 (Stray Round): Allotment Result (Out), Dates, Reporting, Seat Matrix, Cutoff",
               "link": "https://www.shiksha.com/medicine-health-sciences/neet-pg-exam-counselling",
               "author_name": "Mukul Kumar Mishra",
               "author_link": "https://www.shiksha.com/author/Mukul161751",
-              "date": "Feb 16, 2026",
+              "date": "Feb 21, 2026",
               "image": "",
-              "views": "97.7K Views",
+              "views": "97.1K Views",
               "comments": ""
             },
             {
@@ -23369,7 +23309,7 @@
               "author_link": "https://www.shiksha.com/author/Mukul161751",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "41K Views",
+              "views": "39.9K Views",
               "comments": ""
             }
           ]
@@ -23456,10 +23396,16 @@
             "overview": "Overview not available",
             "courses_table": [
               {
-                "course_name": "",
-                "course_count": null,
-                "tuition_fees": "",
-                "eligibility": "",
+                "course_name": "MBA/PGDM",
+                "course_count": 1,
+                "tuition_fees": "1.7 L",
+                "eligibility": {
+                  "graduation_percentage": "50%",
+                  "exams": [
+                    "XAT",
+                    "MAT"
+                  ]
+                },
                 "link": "https://www.shiksha.com/college/jspm-s-kautilya-institute-of-management-and-research-wagholi-pune-64691/courses/mba-pgdm-bc"
               }
             ],
@@ -24217,7 +24163,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -24604,7 +24550,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "50.6K Views",
+              "views": "50.9K Views",
               "comments": ""
             },
             {
@@ -24664,7 +24610,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
@@ -24674,7 +24620,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.2K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -24684,7 +24630,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -24694,7 +24640,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -24764,7 +24710,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -24774,7 +24720,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -24784,17 +24730,17 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
-              "title": "CMAT 2026 Question Paper with Solutions: Free PDF Download",
-              "link": "https://www.shiksha.com/mba/cmat-exam-question-papers",
+              "title": "MAT Exam 2026: Registration (Feb Session Open), Dates (OUT), Syllabus, Pattern, Question Papers, Preparation Tips",
+              "link": "https://www.shiksha.com/mba/mat-exam",
               "author_name": "Vipra Shrivastava",
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
-              "date": "Jan 25, 2026",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.5K Views",
+              "views": "25.7K Views",
               "comments": ""
             }
           ]
@@ -24873,19 +24819,19 @@
               ],
               "faqs": [
                 {
-                  "question": "",
+                  "question": "Which has better placement at RIMT University, BTech or MBA?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "How was placement at RIMT University?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What is the last date to apply for B.Sc course at RIMT University?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "Where can a candidate check RIMT University cutoff 2023?",
                   "answer": ""
                 }
               ]
@@ -26918,7 +26864,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -27644,6 +27590,56 @@
           },
           "articles": [
             {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 10 English Question Paper 2026 PDF Download: Check Important Topics, Weightages & Pattern",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-10-english-question-paper-2026-pdf-download-blogId-220968",
+              "author_name": "Anangsha Patra",
+              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "20.5K Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main Form Correction 2026 Session 2 (Feb 27 to 28): Link, Procedure, Fees, How to Edit",
+              "link": "https://www.shiksha.com/engineering/articles/jee-main-application-form-and-image-correction-blogId-19439",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.4L Views",
+              "comments": "56 Comments"
+            },
+            {
+              "title": "JEE Main 2026 Session 2 Registration Last Date (Feb 25): Form Link @ jeemain.nta.nic.in",
+              "link": "https://www.shiksha.com/engineering/articles/jee-mains-2026-session-2-registration-blogId-219798",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "5.8K Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
+              "link": "https://www.shiksha.com/engineering/jee-main-exam",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.9L Views",
+              "comments": ""
+            },
+            {
               "title": "GATE 2026 Qualifying Marks: Expected Cutoff Marks and Previous Year's Trends",
               "link": "https://www.shiksha.com/engineering/articles/gate-qualifying-marks-blogId-221876",
               "author_name": "UPASANA PRADHAN",
@@ -27670,48 +27666,8 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
-            },
-            {
-              "title": "ICSE English Question Paper 2026 PDF Download OUT: Check Topic-Wise Question Distribution",
-              "link": "https://www.shiksha.com/boards/articles/icse-english-question-paper-2026-pdf-download-blogId-221048",
-              "author_name": "Salviya Antony",
-              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "5.9K Views",
-              "comments": ""
-            },
-            {
-              "title": "CBSE Class 12 Physics Question Paper 2025 PDF Download; Check CBSE 12th Physics Paper Analysis",
-              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-physics-question-paper-2025-pdf-download-blogId-190682",
-              "author_name": "Md Shahzad",
-              "author_link": "https://www.shiksha.com/author/Md105063",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "8.2L Views",
-              "comments": ""
-            },
-            {
-              "title": "CBSE Class 12 Physics Answer Key 2026 with Solution (OUT): Download Set 1, 2 & 3 PDFs",
-              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-physics-answer-key-2026-with-solution-pdf-blogId-222732",
-              "author_name": "Anangsha Patra",
-              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "10.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "Chemistry Class 12 Marks Distribution with Weightage 2026",
-              "link": "https://www.shiksha.com/boards/articles/chemistry-class-12-marks-distribution-blogId-120825",
-              "author_name": "Sanjana Surbhi",
-              "author_link": "https://www.shiksha.com/author/Sanjana849031986",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "3.7L Views",
-              "comments": "2 Comments"
             },
             {
               "title": "JEE Mains Mock Test Online Free with Solutions: Practice Online or Download PDF Here",
@@ -27724,23 +27680,13 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
+              "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
+              "author_name": "Anangsha Patra",
+              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "1.9L Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main Question Papers 2026 (OUT): Download All Shift Wise PDF and Check Solutions",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam-question-papers",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 4, 2026",
-              "image": "",
-              "views": "3.6L Views",
+              "views": "1.3L Views",
               "comments": ""
             },
             {
@@ -27814,11 +27760,11 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
               "link": "https://www.shiksha.com/engineering/jee-main-exam",
               "author_name": "Mamona Majumder",
               "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
+              "date": "Feb 21, 2026",
               "image": "",
               "views": "1.9L Views",
               "comments": ""
@@ -27932,7 +27878,7 @@
           },
           "student_reviews": {
             "total_reviews_count": 5,
-            "average_rating": 4.8,
+            "average_rating": 4.5,
             "reviews_list": [
               {
                 "review_id": "157285",
@@ -27956,11 +27902,8 @@
                 "overall_rating": "",
                 "category_ratings": [],
                 "review_title": "",
-                "review_content": {
-                  "Placements": "Around 350 companies visit the campus, and all are reputed companies like ITC, britania, coka cola, etc. The college teachers also train personally to individuals to get placed into these companies. Training sessions are there in college on every thursday by experienced persons in the world whose experience adds more knowledge to your life.",
-                  "Infrastructure": "Number one infrastructure is provided by the institute which is helpful to the student to polish their personality by taking participation in various extracurricular activities on the campus. The college organises events like Sinhgad Karandak and spectrum event which help you to discover all your qualities. The campus is good, and it is amongst top MBA colleges in Pune."
-                },
-                "review_date": "31 Jan 2018",
+                "review_content": {},
+                "review_date": "",
                 "helpful_count": 0,
                 "has_photos": false,
                 "photo_urls": []
@@ -27999,10 +27942,10 @@
               },
               {
                 "review_id": "92832",
-                "student_name": "",
-                "batch_info": "",
+                "student_name": "Pranshu Rana",
+                "batch_info": "Master of Business Administration (MBA) - Batch of 2016",
                 "is_verified": true,
-                "overall_rating": "",
+                "overall_rating": "4",
                 "category_ratings": [],
                 "review_title": "",
                 "review_content": {},
@@ -28014,8 +27957,8 @@
             ],
             "video_reviews": [],
             "review_summary": {
-              "average_overall_rating": 4.8,
-              "total_reviews_analyzed": 2,
+              "average_overall_rating": 4.5,
+              "total_reviews_analyzed": 3,
               "category_averages": {},
               "verified_reviews_count": 5,
               "reviews_with_photos": 0
@@ -28564,7 +28507,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -28907,7 +28850,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "50.6K Views",
+              "views": "50.9K Views",
               "comments": ""
             },
             {
@@ -28967,7 +28910,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
@@ -28977,7 +28920,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.2K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -28987,7 +28930,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -28997,7 +28940,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -29067,7 +29010,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -29077,7 +29020,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -29087,17 +29030,17 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
-              "title": "CMAT 2026 Question Paper with Solutions: Free PDF Download",
-              "link": "https://www.shiksha.com/mba/cmat-exam-question-papers",
+              "title": "MAT Exam 2026: Registration (Feb Session Open), Dates (OUT), Syllabus, Pattern, Question Papers, Preparation Tips",
+              "link": "https://www.shiksha.com/mba/mat-exam",
               "author_name": "Vipra Shrivastava",
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
-              "date": "Jan 25, 2026",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.5K Views",
+              "views": "25.7K Views",
               "comments": ""
             }
           ]
@@ -29582,7 +29525,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -29606,7 +29549,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -29821,7 +29764,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "55.3K Views",
+              "views": "55.4K Views",
               "comments": ""
             },
             {
@@ -29831,7 +29774,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "13.2K Views",
+              "views": "12.8K Views",
               "comments": ""
             },
             {
@@ -29851,7 +29794,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Dec 12, 2025",
               "image": "",
-              "views": "19K Views",
+              "views": "17.4K Views",
               "comments": ""
             },
             {
@@ -29881,7 +29824,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "55.3K Views",
+              "views": "55.4K Views",
               "comments": ""
             },
             {
@@ -29901,7 +29844,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Dec 12, 2025",
               "image": "",
-              "views": "19K Views",
+              "views": "17.4K Views",
               "comments": ""
             },
             {
@@ -29921,17 +29864,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "13.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "TS ICET 2026 Exam Dates (May 13 & 14): Get Complete Exam Schedule Here",
-              "link": "https://www.shiksha.com/mba/tsicet-exam-dates",
-              "author_name": "Abhishek Dhawan",
-              "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
-              "date": "Feb 6, 2026",
-              "image": "",
-              "views": "3.7K Views",
+              "views": "12.8K Views",
               "comments": ""
             },
             {
@@ -29945,13 +29878,13 @@
               "comments": ""
             },
             {
-              "title": "TSICET 2026 Cut off (Expected): Check College-wise qualifying Cut off Marks",
-              "link": "https://www.shiksha.com/mba/tsicet-exam-cutoff",
+              "title": "TS ICET 2026 Exam Dates (May 13 & 14): Get Complete Exam Schedule Here",
+              "link": "https://www.shiksha.com/mba/tsicet-exam-dates",
               "author_name": "Abhishek Dhawan",
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
-              "date": "Feb 3, 2026",
+              "date": "Feb 6, 2026",
               "image": "",
-              "views": "2.7K Views",
+              "views": "3.6K Views",
               "comments": ""
             },
             {
@@ -29961,7 +29894,17 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 1, 2026",
               "image": "",
-              "views": "2.6K Views",
+              "views": "2.9K Views",
+              "comments": ""
+            },
+            {
+              "title": "TS ICET 2025 Question Paper with Answers (Official): PDF Download",
+              "link": "https://www.shiksha.com/mba/tsicet-exam-question-papers",
+              "author_name": "Abhishek Dhawan",
+              "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
+              "date": "Feb 5, 2026",
+              "image": "",
+              "views": "2.5K Views",
               "comments": ""
             }
           ]
@@ -31335,7 +31278,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -31453,7 +31396,7 @@
           "logo": "https://images.shiksha.com/mediadata/images/1663656852phpDeGhCE.jpeg",
           "cover_image": "https://images.shiksha.com/mediadata/images/1735896605php9jH5oR_1280x960.jpg",
           "videos_count": 2,
-          "photos_count": 55,
+          "photos_count": 56,
           "rating": "3.5",
           "reviews_count": 170,
           "qa_count": null,
@@ -32273,6 +32216,26 @@
           },
           "articles": [
             {
+              "title": "GAIL Recruitment through GATE 2026 - Registrations Open, Vacancies, Eligibility & Selection Process",
+              "link": "https://www.shiksha.com/engineering/articles/gail-recruitment-through-gate-blogId-27899",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "44K Views",
+              "comments": ""
+            },
+            {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
               "title": "JEE Main Form Correction 2026 Session 2 (Feb 27 to 28): Link, Procedure, Fees, How to Edit",
               "link": "https://www.shiksha.com/engineering/articles/jee-main-application-form-and-image-correction-blogId-19439",
               "author_name": "Mamona Majumder",
@@ -32289,7 +32252,7 @@
               "author_link": "https://www.shiksha.com/author/Mamona194186",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "5.4K Views",
+              "views": "5.8K Views",
               "comments": ""
             },
             {
@@ -32329,27 +32292,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
-              "comments": ""
-            },
-            {
-              "title": "CBSE Class 12 Physics Question Paper 2025 PDF Download; Check CBSE 12th Physics Paper Analysis",
-              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-physics-question-paper-2025-pdf-download-blogId-190682",
-              "author_name": "Md Shahzad",
-              "author_link": "https://www.shiksha.com/author/Md105063",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "8.2L Views",
-              "comments": ""
-            },
-            {
-              "title": "CBSE Class 12 Physics Answer Key 2026 with Solution (OUT): Download Set 1, 2 & 3 PDFs",
-              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-physics-answer-key-2026-with-solution-pdf-blogId-222732",
-              "author_name": "Anangsha Patra",
-              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "10.2K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -32972,9 +32915,9 @@
                 "hostel_fees": "-/-"
               },
               {
-                "college": "Guru Nanak College Dehradun",
-                "tuition_fees": "70 K",
-                "hostel_fees": "67.8 K"
+                "college": "IIBM",
+                "tuition_fees": "52.5 K - 68.5 K",
+                "hostel_fees": "-/-"
               },
               {
                 "college": "Emerald-9 Institute of Management and Technology",
@@ -33208,7 +33151,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n",
+            "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n",
             "top_recruiters": [
               "ACCENTURE",
               "AVIVA",
@@ -33260,7 +33203,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -33487,7 +33430,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -33497,7 +33440,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -33517,7 +33460,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -33537,7 +33480,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "16.5K Views",
+              "views": "17K Views",
               "comments": "1 Comment"
             },
             {
@@ -33547,7 +33490,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "11.3K Views",
+              "views": "11.5K Views",
               "comments": ""
             },
             {
@@ -33567,7 +33510,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "1.9L Views",
+              "views": "2L Views",
               "comments": ""
             },
             {
@@ -33637,7 +33580,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "1.9L Views",
+              "views": "2L Views",
               "comments": ""
             },
             {
@@ -33718,19 +33661,19 @@
               ],
               "faqs": [
                 {
-                  "question": "",
+                  "question": "Is International School of Management Studies (ISMS) a good college?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "How is the placement facility at International School of Management Sciences - ISMS?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What are the top courses offered at International School of Management Sciences - ISMS?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What is the ranking of International School of Management Sciences - ISMS?",
                   "answer": ""
                 }
               ]
@@ -34423,7 +34366,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -34791,7 +34734,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
@@ -34801,7 +34744,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.2K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -34811,7 +34754,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -34821,7 +34764,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -34891,7 +34834,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -34901,7 +34844,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -34911,17 +34854,17 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
-              "title": "CMAT 2026 Question Paper with Solutions: Free PDF Download",
-              "link": "https://www.shiksha.com/mba/cmat-exam-question-papers",
+              "title": "MAT Exam 2026: Registration (Feb Session Open), Dates (OUT), Syllabus, Pattern, Question Papers, Preparation Tips",
+              "link": "https://www.shiksha.com/mba/mat-exam",
               "author_name": "Vipra Shrivastava",
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
-              "date": "Jan 25, 2026",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.5K Views",
+              "views": "25.7K Views",
               "comments": ""
             }
           ]
@@ -36308,7 +36251,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -37083,6 +37026,16 @@
           },
           "articles": [
             {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
               "title": "JEE Main Form Correction 2026 Session 2 (Feb 27 to 28): Link, Procedure, Fees, How to Edit",
               "link": "https://www.shiksha.com/engineering/articles/jee-main-application-form-and-image-correction-blogId-19439",
               "author_name": "Mamona Majumder",
@@ -37099,7 +37052,7 @@
               "author_link": "https://www.shiksha.com/author/Mamona194186",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "5.4K Views",
+              "views": "5.8K Views",
               "comments": ""
             },
             {
@@ -37149,7 +37102,7 @@
               "author_link": "https://www.shiksha.com/author/Ahmed61923",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "11.2K Views",
+              "views": "12.1K Views",
               "comments": ""
             },
             {
@@ -37159,17 +37112,7 @@
               "author_link": "https://www.shiksha.com/author/Ahmed61923",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "16.9K Views",
-              "comments": ""
-            },
-            {
-              "title": "List of colleges for 70-80 Percentile in JEE Main: Top Colleges for 70-80 Percentile",
-              "link": "https://www.shiksha.com/engineering/articles/list-of-colleges-for-70-80-percentile-in-jee-main-blogId-222656",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 19, 2026",
-              "image": "",
-              "views": "16.2K Views",
+              "views": "18.2K Views",
               "comments": ""
             },
             {
@@ -37414,18 +37357,13 @@
             "key_statistics": {}
           },
           "fees_and_eligibility": {
-            "overview": "College of Engineering and Rural Technology is an institute which offers various courses at UG and PG levels. Students can choose Full Time programmes from streams such as Engineering and Business & Management Studies. At the UG level, students can choose the available programmes such as B.E. / B.Tech and After 10th Diploma. Talking about PG level, some of the available courses include M.E./M.Tech and MBA/PGDM. The fee structure for the College of Engineering and Rural Technology programmes is around INR 1,00,800 to 2,53,600.",
+            "overview": "",
             "courses_table": [
               {
-                "course_name": "After 10th Diploma",
-                "course_count": 4,
-                "tuition_fees": "1 L",
-                "eligibility": {
-                  "exams": [
-                    "JEECUP",
-                    "ISC"
-                  ]
-                },
+                "course_name": "",
+                "course_count": null,
+                "tuition_fees": "",
+                "eligibility": "",
                 "link": "https://www.shiksha.com/college/college-of-engineering-and-rural-technology-meerut-19747/courses/after-10th-diploma-bc"
               },
               {
@@ -37607,7 +37545,7 @@
             "eligibility": {
               "exams": [
                 "JEECUP",
-                "ISC"
+                "CBSE 12th"
               ]
             },
             "link": "https://www.shiksha.com/college/college-of-engineering-and-rural-technology-meerut-19747/courses/after-10th-diploma-bc"
@@ -37666,8 +37604,7 @@
             "course_count": 4,
             "duration": "2 - 3 years",
             "exams_accepted": [
-              "JEECUP",
-              "ISC"
+              "JEECUP"
             ],
             "median_salary": "Not available",
             "total_tuition_fees": "₹1.01 L",
@@ -37850,14 +37787,14 @@
                 "hostel_fees": "-/-"
               },
               {
-                "college": "Madhyanchal Professional University",
-                "tuition_fees": "60 K - 1.35 L",
+                "college": "Chhotu Ram Rural Institute of Technology",
+                "tuition_fees": "1.06 L",
                 "hostel_fees": "-/-"
               },
               {
-                "college": "Dr. Radhakrishnan Polytechnic College",
-                "tuition_fees": "66 K",
-                "hostel_fees": "1.8 K"
+                "college": "Edu Brain Academy, Delhi",
+                "tuition_fees": "60 K - 3 L",
+                "hostel_fees": "-/-"
               }
             ],
             "course_faqs": []
@@ -38200,7 +38137,7 @@
                 "seat_intake": "180",
                 "total_tuition_fees": "₹1L",
                 "eligibility": [
-                  "Accepting Exams:JEECUP, ISC, CBSE 12th, UP 12th"
+                  "Accepting Exams:JEECUP, CBSE 12th, UP 12th, ISC"
                 ]
               },
               {
@@ -38386,7 +38323,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -39121,7 +39058,7 @@
               "author_link": "https://www.shiksha.com/author/Mamona194186",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "5.4K Views",
+              "views": "5.8K Views",
               "comments": ""
             },
             {
@@ -39151,7 +39088,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -39171,7 +39108,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -39201,7 +39138,7 @@
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 18, 2026",
               "image": "",
-              "views": "1.9L Views",
+              "views": "2L Views",
               "comments": ""
             },
             {
@@ -39275,21 +39212,21 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 21, 2026",
-              "image": "",
-              "views": "1.9L Views",
-              "comments": ""
-            },
-            {
               "title": "UP Board Class 12th Exam Dates 2026 (OUT): Download UP Board Intermediate Date Sheet PDF",
               "link": "https://www.shiksha.com/boards/up-12th-board-dates",
               "author_name": "Md Shahzad",
               "author_link": "https://www.shiksha.com/author/Md105063",
               "date": "Feb 18, 2026",
+              "image": "",
+              "views": "2L Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
+              "link": "https://www.shiksha.com/engineering/jee-main-exam",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
               "image": "",
               "views": "1.9L Views",
               "comments": ""
@@ -39352,19 +39289,19 @@
               ],
               "faqs": [
                 {
-                  "question": "",
+                  "question": "How can I get into St. Bosco College Of Management for UG/PG courses? Am I eligible for admission?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What are the facilities available for students at St. Bosco College Of Management?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What kind of courses does St. Bosco College Of Management offer for students?",
                   "answer": ""
                 },
                 {
-                  "question": "",
+                  "question": "What is the overall intake at St. Bosco College Of Management for all courses together?",
                   "answer": ""
                 }
               ]
@@ -39377,8 +39314,22 @@
           "intro": null,
           "courses": [],
           "fees_and_eligibility": {
-            "overview": "Overview not available",
-            "courses_table": [],
+            "overview": "St. Bosco College Of Management offers diverse programmes at PG level in Full Time mode. The offered programmes can be chosen from stream such as Business & Management Studies. At the PG level, candidates have the provision to opt from courses such as MBA/PGDM. St. Bosco College Of Management fee structure for all the courses is around INR 1,33,000.",
+            "courses_table": [
+              {
+                "course_name": "MBA/PGDM",
+                "course_count": 1,
+                "tuition_fees": "1.3 L",
+                "eligibility": {
+                  "graduation_percentage": "50%",
+                  "exams": [
+                    "MAT",
+                    "CAT"
+                  ]
+                },
+                "link": "https://www.shiksha.com/college/st-bosco-college-of-management-lucknow-31515/courses/mba-pgdm-bc"
+              }
+            ],
             "faqs": [],
             "key_statistics": {}
           },
@@ -39702,7 +39653,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -39726,7 +39677,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -39934,7 +39885,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.2K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -39964,7 +39915,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -39974,7 +39925,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -39994,7 +39945,7 @@
               "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
               "date": "Feb 13, 2026",
               "image": "",
-              "views": "22.1K Views",
+              "views": "22.2K Views",
               "comments": ""
             },
             {
@@ -40004,7 +39955,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 5, 2026",
               "image": "",
-              "views": "20.9K Views",
+              "views": "20.8K Views",
               "comments": ""
             },
             {
@@ -40074,7 +40025,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -40084,7 +40035,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -40094,7 +40045,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.2K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -40104,7 +40055,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 5, 2026",
               "image": "",
-              "views": "20.9K Views",
+              "views": "20.8K Views",
               "comments": ""
             }
           ]
@@ -41248,7 +41199,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -41348,7 +41299,7 @@
           "logo": "https://images.shiksha.com/mediadata/images/1472203039phpCnRT4N.jpeg",
           "cover_image": "https://images.shiksha.com/mediadata/images/1491284703phpjTBGYx_g.jpg",
           "videos_count": 0,
-          "photos_count": 9,
+          "photos_count": 7,
           "rating": "3.7",
           "reviews_count": 108,
           "qa_count": null,
@@ -41782,6 +41733,46 @@
           },
           "articles": [
             {
+              "title": "JEE Main Form Correction 2026 Session 2 (Feb 27 to 28): Link, Procedure, Fees, How to Edit",
+              "link": "https://www.shiksha.com/engineering/articles/jee-main-application-form-and-image-correction-blogId-19439",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.4L Views",
+              "comments": "56 Comments"
+            },
+            {
+              "title": "JEE Main 2026 Session 2 Registration Last Date (Feb 25): Form Link @ jeemain.nta.nic.in",
+              "link": "https://www.shiksha.com/engineering/articles/jee-mains-2026-session-2-registration-blogId-219798",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "5.8K Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main 2026 Session 2 Application Form: Last Date (Feb 25), Registration Link at jeemain.nta.nic.in, How to Apply",
+              "link": "https://www.shiksha.com/engineering/jee-main-exam-application-form",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.3L Views",
+              "comments": ""
+            },
+            {
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
+              "link": "https://www.shiksha.com/engineering/jee-main-exam",
+              "author_name": "Mamona Majumder",
+              "author_link": "https://www.shiksha.com/author/Mamona194186",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "1.9L Views",
+              "comments": ""
+            },
+            {
               "title": "CUET Home Science Question Paper 2026: Previous Year Paper PDFs; Important Questions",
               "link": "https://www.shiksha.com/science/articles/cuet-home-science-question-paper-blogId-135039",
               "author_name": "Shruti Garg",
@@ -41822,26 +41813,6 @@
               "comments": ""
             },
             {
-              "title": "CUET Environmental Studies Syllabus 2026: PDF Download, Unit-Wise Syllabus",
-              "link": "https://www.shiksha.com/science/articles/cuet-environmental-studies-syllabus-blogId-144859",
-              "author_name": "Shruti Garg",
-              "author_link": "https://www.shiksha.com/author/Shruti114611",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "10.7K Views",
-              "comments": ""
-            },
-            {
-              "title": "DU Seat Intake Through CUET 2026",
-              "link": "https://www.shiksha.com/science/articles/du-seat-intake-through-cuet-blogId-130803",
-              "author_name": "Shruti Garg",
-              "author_link": "https://www.shiksha.com/author/Shruti114611",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "7.9K Views",
-              "comments": ""
-            },
-            {
               "title": "JEE Mains Mock Test Online Free with Solutions: Practice Online or Download PDF Here",
               "link": "https://www.shiksha.com/engineering/jee-main-exam-mocktest",
               "author_name": "Mamona Majumder",
@@ -41852,16 +41823,6 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
-              "image": "",
-              "views": "1.9L Views",
-              "comments": ""
-            },
-            {
               "title": "JEE Main 2026 Final Answer Key (OUT): PDF Download Link, Dropped Questions & Bonus Marks",
               "link": "https://www.shiksha.com/engineering/jee-main-exam-answer-key",
               "author_name": "Mamona Majumder",
@@ -41869,16 +41830,6 @@
               "date": "Feb 16, 2026",
               "image": "",
               "views": "1.1L Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main Question Papers 2026 (OUT): Download All Shift Wise PDF and Check Solutions",
-              "link": "https://www.shiksha.com/engineering/jee-main-exam-question-papers",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 4, 2026",
-              "image": "",
-              "views": "3.6L Views",
               "comments": ""
             },
             {
@@ -41952,11 +41903,11 @@
               "comments": ""
             },
             {
-              "title": "JEE Main 2026: Result (Out), Final Answer Key, April Registration Open, Cutoff",
+              "title": "JEE Main 2026: April Registration Open, Form Correction (Feb 27), Cutoff",
               "link": "https://www.shiksha.com/engineering/jee-main-exam",
               "author_name": "Mamona Majumder",
               "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Feb 16, 2026",
+              "date": "Feb 21, 2026",
               "image": "",
               "views": "1.9L Views",
               "comments": ""
@@ -42081,7 +42032,7 @@
             }
           ],
           "placements": {
-            "overview": "UG Degree (4 year) : In year 2017-18, for 4 year UG Degree, a total of 383 students were admitted at P.S.V. College of Engineering and Technology and 310 completed their graduation in 2020-21. Out of 310 students 94 were placed with median salary of INR 280000 and 11 students opted for higher studies. A total of 191 students were admitted in year 2018-19 for 4 year UG degree at P.S.V. College of Engineering and Technologyand 171 completed their graduation in 2021-22. Out of 171 students 100 were placed with median salary of INR 320000 and 10 students opted for higher studies.\n\nPG Degree (2 year) : In year 2019-20, for 2 year PG Degree, a total of 25 students were admitted at P.S.V. College of Engineering and Technology and 22 completed their graduation in 2020-21. Out of 22 students 5 were placed with median salary of INR 320000. A total of 21 students were admitted in year 2020-21 for 2 year PG degree at P.S.V. College of Engineering and Technologyand 20 completed their graduation in 2021-22. Out of 20 students 5 were placed with median salary of INR 380000.",
+            "overview": "Overview not available",
             "course_wise_data": [],
             "top_recruiters": [
               "Cognizant",
@@ -42109,10 +42060,10 @@
             "key_statistics": {}
           },
           "fees_and_eligibility": {
-            "overview": "",
+            "overview": "P.S.V. College of Engineering and Technology provides Full Time programs at the UG and PG levels. These courses are available in multiple streams like Engineering and Business & Management Studies, and have a fee structure of around INR 35,000 to 2,00,000. UG programs include B.E. / B.Tech. Further, the PG programs include M.E./M.Tech and MBA/PGDM.",
             "courses_table": [
               {
-                "course_name": "",
+                "course_name": "B.E. / B.Tech",
                 "course_count": 12,
                 "tuition_fees": "1.6 L - 2 L",
                 "eligibility": {
@@ -42142,8 +42093,8 @@
                 "eligibility": {
                   "graduation_percentage": "50%",
                   "exams": [
-                    "GATE",
-                    "CEETA"
+                    "CEETA",
+                    "GATE"
                   ]
                 },
                 "link": "https://www.shiksha.com/college/p-s-v-college-of-engineering-and-technology-tamil-nadu-other-43285/courses/me-mtech-bc"
@@ -42852,7 +42803,7 @@
                 "total_tuition_fees": "₹50K",
                 "eligibility": [
                   "Undergraduate Degree with 50% aggregate",
-                  "Accepting Exams:GATE, CEETA"
+                  "Accepting Exams:CEETA, GATE"
                 ],
                 "description": "P.S.V. College of Engineering and Technologyoffers M.E./M.Tech for 2 years at the PG level. This course is offered in full time mode. Candidates are offered admission in M.E./M.Tech based on their qualifying exam scores. The university offers M.E./M.Tech in specialisations such as Power Engineering, Structural Engineering and Computer Science Engineering, etc. Selected candidates have to pay a total tuition fees ofINR 50,000. Check below the P.S.V. College of Engineering and Technology eligibility criteria for M.E./M.Tech: Eligibility Criteria"
               },
@@ -42970,7 +42921,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -43385,6 +43336,16 @@
           },
           "articles": [
             {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
               "title": "GATE 2026 Qualifying Marks: Expected Cutoff Marks and Previous Year's Trends",
               "link": "https://www.shiksha.com/engineering/articles/gate-qualifying-marks-blogId-221876",
               "author_name": "UPASANA PRADHAN",
@@ -43411,7 +43372,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -43421,7 +43382,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "26.2K Views",
+              "views": "26.6K Views",
               "comments": ""
             },
             {
@@ -43441,7 +43402,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -43453,16 +43414,6 @@
               "image": "",
               "views": "3.7L Views",
               "comments": "2 Comments"
-            },
-            {
-              "title": "TANCET 2026 Exam Day Guidelines: Do's and Dont's, Preparation Checklist",
-              "link": "https://www.shiksha.com/mba/articles/tancet-exam-day-guidelines-blogId-26377",
-              "author_name": "Abhishek Dhawan",
-              "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
-              "date": "Feb 19, 2026",
-              "image": "",
-              "views": "6.6K Views",
-              "comments": ""
             },
             {
               "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
@@ -43481,7 +43432,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -43555,21 +43506,21 @@
               "comments": ""
             },
             {
-              "title": "Tamil Nadu 12th Public Exam Time Table 2026 (Released): Download TN 12th Std Time Table PDF",
-              "link": "https://www.shiksha.com/boards/tamilnadu-12th-board-timetable",
-              "author_name": "Salviya Antony",
-              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
-              "date": "Feb 9, 2026",
-              "image": "",
-              "views": "1.3L Views",
-              "comments": ""
-            },
-            {
               "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
               "author_name": "Anangsha Patra",
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 17, 2026",
+              "image": "",
+              "views": "1.3L Views",
+              "comments": ""
+            },
+            {
+              "title": "Tamil Nadu 12th Public Exam Time Table 2026 (Released): Download TN 12th Std Time Table PDF",
+              "link": "https://www.shiksha.com/boards/tamilnadu-12th-board-timetable",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Feb 9, 2026",
               "image": "",
               "views": "1.3L Views",
               "comments": ""
@@ -43581,7 +43532,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             }
           ]
@@ -43858,8 +43809,8 @@
               }
             },
             {
-              "faq_number": 2,
-              "question": "XIME Bangalore",
+              "faq_number": 6,
+              "question": "JBIMS Mumbai",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -43869,7 +43820,7 @@
             },
             {
               "faq_number": 7,
-              "question": "JBIMS Mumbai",
+              "question": "XIME Bangalore",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -44259,7 +44210,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -44642,7 +44593,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "50.6K Views",
+              "views": "50.9K Views",
               "comments": ""
             },
             {
@@ -44702,7 +44653,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
@@ -44712,7 +44663,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.2K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -44722,7 +44673,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -44732,7 +44683,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -44802,7 +44753,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 16, 2026",
               "image": "",
-              "views": "46K Views",
+              "views": "46.3K Views",
               "comments": ""
             },
             {
@@ -44812,7 +44763,7 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "27.3K Views",
+              "views": "27.5K Views",
               "comments": ""
             },
             {
@@ -44822,17 +44773,17 @@
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
               "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.8K Views",
+              "views": "26.2K Views",
               "comments": ""
             },
             {
-              "title": "CMAT 2026 Question Paper with Solutions: Free PDF Download",
-              "link": "https://www.shiksha.com/mba/cmat-exam-question-papers",
+              "title": "MAT Exam 2026: Registration (Feb Session Open), Dates (OUT), Syllabus, Pattern, Question Papers, Preparation Tips",
+              "link": "https://www.shiksha.com/mba/mat-exam",
               "author_name": "Vipra Shrivastava",
               "author_link": "https://www.shiksha.com/author/VipraSrivastava",
-              "date": "Jan 25, 2026",
+              "date": "Feb 17, 2026",
               "image": "",
-              "views": "25.5K Views",
+              "views": "25.7K Views",
               "comments": ""
             }
           ]
@@ -45163,9 +45114,9 @@
       },
       "placement": {
         "placement_report": {
-          "college_name": null,
-          "logo": null,
-          "cover_image": null,
+          "college_name": "RD Memorial College Placement - Average Package & Highest Salary",
+          "logo": "https://images.shiksha.ws/pwa/public/images/ctpV2/default.svg",
+          "cover_image": "https://images.shiksha.ws/public/images/instHeaderDesktop.jpg",
           "videos_count": 0,
           "photos_count": 0,
           "rating": null,
@@ -45185,11 +45136,11 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
-              "title": "IIM Ahmedabad Average Package 2025",
+              "title": "Average packages & top recruiters 2026",
               "main_table": [],
               "top_recruiters": [],
               "insights": [],
@@ -45197,7 +45148,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "user_feedback": "Does the data look accurate to you?"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -45209,7 +45160,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -45488,7 +45439,7 @@
             }
           ],
           "placements": {
-            "overview": "Overview not available",
+            "overview": "Vogue Institute of Art and Design placements 2025 details are currently not released. The same will be posted here once officially posted by Vogue Institute Bangalore.\n\nAs per the students’ reviews on the Shiksha page, the highest and average package offered during the recent Vogue Institute of Art and Design placements stood at INR 9.80 LPA and INR 4.20 LPA, respectively. The top recruiters who participated in Vogue Institute of Art and Design placements included Tommy Hilfiger, Lifestyle, Levis, Davanam Jewellers, etc.\n\nCheck the complete insights of the recent Vogue Institute of Fashion Technology placements from the table below:",
             "course_wise_data": [],
             "top_recruiters": [
               "Tommy Hilfiger",
@@ -45557,56 +45508,34 @@
             "key_statistics": {}
           },
           "fees_and_eligibility": {
-            "overview": "There is a vast range of course diversity available at Vogue Institute of Art and Design for students interested in the Arts and Design industry. UG students can choose from the popular programs like BDes, BSc, and BVA. These courses are sure to lay a solid foundation for the students’ future careers.\n\nPG students can choose from the MSc program in two distinct specializations: Fashion Design Management (FDM) and Interior Design Management (IDM). Students can check the official website to learn more regarding the course-wise at Vogue Institute of Art and Design.",
+            "overview": "",
             "courses_table": [
               {
-                "course_name": "B.Sc.",
-                "course_count": 11,
-                "tuition_fees": "6 L",
-                "eligibility": {
-                  "exams": [
-                    "CBSE 12th",
-                    "ISC"
-                  ]
-                },
+                "course_name": "",
+                "course_count": null,
+                "tuition_fees": "",
+                "eligibility": "",
                 "link": "https://www.shiksha.com/college/vogue-institute-of-art-and-design-bangalore-440/courses/bsc-bc"
               },
               {
-                "course_name": "UG Diploma",
-                "course_count": 11,
-                "tuition_fees": "93.5 K - 4.6 L",
-                "eligibility": {
-                  "exams": [
-                    "CBSE 12th",
-                    "Karnataka 2nd PUC"
-                  ]
-                },
+                "course_name": "",
+                "course_count": null,
+                "tuition_fees": "",
+                "eligibility": "",
                 "link": "https://www.shiksha.com/college/vogue-institute-of-art-and-design-bangalore-440/courses/ug-diploma-bc"
               },
               {
-                "course_name": "Certificate",
-                "course_count": 16,
-                "tuition_fees": "15 K - 20 K",
-                "eligibility": {
-                  "graduation_percentage": "50%",
-                  "exams": [
-                    "CBSE 12th",
-                    "ISC"
-                  ]
-                },
+                "course_name": "",
+                "course_count": null,
+                "tuition_fees": "",
+                "eligibility": "",
                 "link": "https://www.shiksha.com/college/vogue-institute-of-art-and-design-bangalore-440/courses/certificate-bc"
               },
               {
-                "course_name": "MBA/PGDM",
-                "course_count": 7,
-                "tuition_fees": "6.5 L",
-                "eligibility": {
-                  "graduation_percentage": "50%",
-                  "exams": [
-                    "MAT",
-                    "KMAT"
-                  ]
-                },
+                "course_name": "",
+                "course_count": null,
+                "tuition_fees": "",
+                "eligibility": "",
                 "link": "https://www.shiksha.com/college/vogue-institute-of-art-and-design-bangalore-440/courses/mba-pgdm-bc"
               },
               {
@@ -46051,13 +45980,13 @@
                 "hostel_fees": "-/-"
               },
               {
-                "college": "VPM",
-                "tuition_fees": "1.5 K - 25 K",
+                "college": "INSD",
+                "tuition_fees": "25 K",
                 "hostel_fees": "-/-"
               },
               {
-                "college": "IIMT Group of Colleges, Agra",
-                "tuition_fees": "25 K - 40 K",
+                "college": "RKFMA",
+                "tuition_fees": "20.7 K - 30.7 K",
                 "hostel_fees": "-/-"
               }
             ],
@@ -46888,7 +46817,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -47501,6 +47430,16 @@
           },
           "articles": [
             {
+              "title": "CBSE Class 10 English Question Paper 2026 PDF Download: Check Important Topics, Weightages & Pattern",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-10-english-question-paper-2026-pdf-download-blogId-220968",
+              "author_name": "Anangsha Patra",
+              "author_link": "https://www.shiksha.com/author/AnangshaPatra",
+              "date": "Feb 21, 2026",
+              "image": "",
+              "views": "20.5K Views",
+              "comments": ""
+            },
+            {
               "title": "CBSE Exam Class 12 2026: Date Sheet, Syllabus, Question Papers, Analysis, Pattern, Result",
               "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board",
               "author_name": "Anangsha Patra",
@@ -47517,7 +47456,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "11.9K Views",
+              "views": "12.9K Views",
               "comments": ""
             },
             {
@@ -47527,7 +47466,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "5.9K Views",
+              "views": "6K Views",
               "comments": ""
             },
             {
@@ -47547,7 +47486,7 @@
               "author_link": "https://www.shiksha.com/author/AnangshaPatra",
               "date": "Feb 20, 2026",
               "image": "",
-              "views": "10.2K Views",
+              "views": "23K Views",
               "comments": ""
             },
             {
@@ -47559,16 +47498,6 @@
               "image": "",
               "views": "3.7L Views",
               "comments": "2 Comments"
-            },
-            {
-              "title": "SC & ST Category Seats in IIMs for MBA",
-              "link": "https://www.shiksha.com/mba/articles/sc-st-category-seats-in-iims-for-mba-blogId-23457",
-              "author_name": "Abhishek Dhawan",
-              "author_link": "https://www.shiksha.com/author/AbhishekDhawan",
-              "date": "Feb 19, 2026",
-              "image": "",
-              "views": "46.5K Views",
-              "comments": ""
             },
             {
               "title": "CBSE Class 12 Date Sheet 2026 (Released): Download Subject-wise Final Exam Datesheet PDF",
@@ -47587,7 +47516,7 @@
               "author_link": "https://www.shiksha.com/author/JasleenTaneja",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "81.1K Views",
+              "views": "82.3K Views",
               "comments": ""
             },
             {
@@ -47597,7 +47526,7 @@
               "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
               "date": "Feb 12, 2026",
               "image": "",
-              "views": "94.3K Views",
+              "views": "94.7K Views",
               "comments": ""
             },
             {
@@ -48212,8 +48141,8 @@
           "total_faqs": 2,
           "faqs": [
             {
-              "faq_number": 1,
-              "question": "XIME Bangalore",
+              "faq_number": 4,
+              "question": "JBIMS Mumbai",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -48223,7 +48152,7 @@
             },
             {
               "faq_number": 5,
-              "question": "JBIMS Mumbai",
+              "question": "XIME Bangalore",
               "answer": {
                 "text": "Answer not found (dynamic content)",
                 "has_table": false,
@@ -48332,13 +48261,13 @@
                 "hostel_fees": "-/-"
               },
               {
-                "college": "Aditya Engineering College",
-                "tuition_fees": "54.6 K - 1.08 L",
+                "college": "Lakireddy Bali Reddy College of Engineering",
+                "tuition_fees": "1.14 L",
                 "hostel_fees": "-/-"
               },
               {
-                "college": "Lakireddy Bali Reddy College of Engineering",
-                "tuition_fees": "1.14 L",
+                "college": "Dr. K.V. Subba Reddy Institute of Technology (KVSRIT)",
+                "tuition_fees": "64 K - 1.17 L",
                 "hostel_fees": "-/-"
               }
             ],
@@ -48945,7 +48874,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x560bac2aba4a <unknown>\n#1 0x560babcc46a2 <unknown>\n#2 0x560babd19a8d <unknown>\n#3 0x560babd19cd1 <unknown>\n#4 0x560babd655c4 <unknown>\n#5 0x560babd627f0 <unknown>\n#6 0x560babd0b8b2 <unknown>\n#7 0x560babd0c6a1 <unknown>\n#8 0x560bac2718a9 <unknown>\n#9 0x560bac2747b1 <unknown>\n#10 0x560bac25dea9 <unknown>\n#11 0x560bac27536e <unknown>\n#12 0x560bac244410 <unknown>\n#13 0x560bac2990c8 <unknown>\n#14 0x560bac29929b <unknown>\n#15 0x560bac2aadb8 <unknown>\n#16 0x7faa9329caa4 <unknown>\n#17 0x7faa93329c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x55b9d8baaa4a <unknown>\n#1 0x55b9d85c36a2 <unknown>\n#2 0x55b9d8618a8d <unknown>\n#3 0x55b9d8618cd1 <unknown>\n#4 0x55b9d86645c4 <unknown>\n#5 0x55b9d86617f0 <unknown>\n#6 0x55b9d860a8b2 <unknown>\n#7 0x55b9d860b6a1 <unknown>\n#8 0x55b9d8b708a9 <unknown>\n#9 0x55b9d8b737b1 <unknown>\n#10 0x55b9d8b5cea9 <unknown>\n#11 0x55b9d8b7436e <unknown>\n#12 0x55b9d8b43410 <unknown>\n#13 0x55b9d8b980c8 <unknown>\n#14 0x55b9d8b9829b <unknown>\n#15 0x55b9d8ba9db8 <unknown>\n#16 0x7fba6209caa4 <unknown>\n#17 0x7fba62129c6c <unknown>\n"
             }
           }
         }
@@ -49043,7 +48972,7 @@
           "logo": "https://images.shiksha.com/mediadata/images/1440056445phpTZqnmL.gif",
           "cover_image": "https://images.shiksha.com/mediadata/images/1750316936phpU489wL_1280x960.jpg",
           "videos_count": 2,
-          "photos_count": 40,
+          "photos_count": 41,
           "rating": "4.0",
           "reviews_count": 277,
           "qa_count": null,
@@ -49730,6 +49659,36 @@
           },
           "articles": [
             {
+              "title": "GATE 2026: Answer Key (OUT), Question Paper, Exam Analysis, Hall Ticket, Result",
+              "link": "https://www.shiksha.com/engineering/gate-exam",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.9K Views",
+              "comments": ""
+            },
+            {
+              "title": "GAIL Recruitment through GATE 2026 - Registrations Open, Vacancies, Eligibility & Selection Process",
+              "link": "https://www.shiksha.com/engineering/articles/gail-recruitment-through-gate-blogId-27899",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "44K Views",
+              "comments": ""
+            },
+            {
+              "title": "What is a good rank in GATE 2026: Check marks vs rank, good rank for IITs, NITs, and PSUs",
+              "link": "https://www.shiksha.com/engineering/articles/what-is-a-good-rank-in-gate-blogId-208932",
+              "author_name": "UPASANA PRADHAN",
+              "author_link": "https://www.shiksha.com/author/UPASANA75632",
+              "date": "Feb 22, 2026",
+              "image": "",
+              "views": "23.6K Views",
+              "comments": ""
+            },
+            {
               "title": "GATE 2026 Qualifying Marks: Expected Cutoff Marks and Previous Year's Trends",
               "link": "https://www.shiksha.com/engineering/articles/gate-qualifying-marks-blogId-221876",
               "author_name": "UPASANA PRADHAN",
@@ -49740,23 +49699,13 @@
               "comments": ""
             },
             {
-              "title": "GATE Question Paper 2026 with Solutions (Feb 7, 8): All Subject Previous Year Papers with Solutions",
+              "title": "GATE 2026 Question Paper PDF OUT: Download with Master Question Paper and Solutions, Previous Year Papers",
               "link": "https://www.shiksha.com/engineering/gate-exam-question-papers",
               "author_name": "UPASANA PRADHAN",
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "12.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "GATE 2026: Answer Key (OUT), Question Paper, Exam Analysis, Hall Ticket, Result",
-              "link": "https://www.shiksha.com/engineering/gate-exam",
-              "author_name": "UPASANA PRADHAN",
-              "author_link": "https://www.shiksha.com/author/UPASANA75632",
-              "date": "Feb 20, 2026",
-              "image": "",
-              "views": "23.9K Views",
+              "views": "12.1K Views",
               "comments": ""
             },
             {
@@ -49766,7 +49715,7 @@
               "author_link": "https://www.shiksha.com/author/Dhanya121321",
               "date": "Feb 19, 2026",
               "image": "",
-              "views": "9.8K Views",
+              "views": "10K Views",
               "comments": ""
             },
             {
@@ -49786,7 +49735,7 @@
               "author_link": "https://www.shiksha.com/author/Saakshi176685",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "18.9K Views",
+              "views": "19K Views",
               "comments": ""
             },
             {
@@ -49796,27 +49745,7 @@
               "author_link": "https://www.shiksha.com/author/Dhanya121321",
               "date": "Feb 15, 2026",
               "image": "",
-              "views": "9.9K Views",
-              "comments": ""
-            },
-            {
-              "title": "GATE 2026 Question Paper PDF (OUT): Download All Branch Paper with Solutions",
-              "link": "https://www.shiksha.com/engineering/articles/gate-2026-question-paper-all-subjects-blogId-221442",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 15, 2026",
-              "image": "",
-              "views": "10.2K Views",
-              "comments": ""
-            },
-            {
-              "title": "GATE 2026 Cutoff for ECE: Expected Marks, Previous Year Cut off",
-              "link": "https://www.shiksha.com/engineering/articles/gate-2026-cutoff-for-ece-blogId-222122",
-              "author_name": "Vikrant Shukla",
-              "author_link": "https://www.shiksha.com/author/Ahmed61923",
-              "date": "Feb 15, 2026",
-              "image": "",
-              "views": "6K Views",
+              "views": "10K Views",
               "comments": ""
             },
             {
@@ -49896,7 +49825,7 @@
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
               "date": "Feb 1, 2026",
               "image": "",
-              "views": "26.1K Views",
+              "views": "25.7K Views",
               "comments": ""
             },
             {
@@ -49904,7 +49833,7 @@
               "link": "https://www.shiksha.com/engineering/gate-exam",
               "author_name": "UPASANA PRADHAN",
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
-              "date": "Feb 20, 2026",
+              "date": "Feb 22, 2026",
               "image": "",
               "views": "23.9K Views",
               "comments": ""
@@ -49920,13 +49849,13 @@
               "comments": ""
             },
             {
-              "title": "GATE Question Paper 2026 with Solutions (Feb 7, 8): All Subject Previous Year Papers with Solutions",
+              "title": "GATE 2026 Question Paper PDF OUT: Download with Master Question Paper and Solutions, Previous Year Papers",
               "link": "https://www.shiksha.com/engineering/gate-exam-question-papers",
               "author_name": "UPASANA PRADHAN",
               "author_link": "https://www.shiksha.com/author/UPASANA75632",
               "date": "Feb 21, 2026",
               "image": "",
-              "views": "12.2K Views",
+              "views": "12.1K Views",
               "comments": ""
             }
           ]
