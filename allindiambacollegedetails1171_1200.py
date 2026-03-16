@@ -8502,7 +8502,7 @@ def parse_faculty_full_html(driver,URLS):
     # 🔥 Re-locate element to avoid stale reference
     section = driver.find_element(By.CSS_SELECTOR, "div.wikkiContents.faqAccordian")
     
-    html = section.get_attribute("innerHTML"))
+    html = section.get_attribute("innerHTML")
 
     soup = BeautifulSoup(html, "html.parser")
 
