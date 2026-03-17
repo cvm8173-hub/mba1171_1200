@@ -15,36 +15,36 @@ from selenium.common.exceptions import TimeoutException
 
 # ---------------- URLS ----------------
 BASE_URL = [
-  "https://www.shiksha.com/university/baddi-university-of-emerging-sciences-and-technology-36922",
-  "https://www.shiksha.com/college/indore-international-college-157113",
-  "https://www.shiksha.com/college/iilm-institute-for-business-and-management-gurgaon-27864",
-  "https://www.shiksha.com/college/krishna-group-of-institutions-kanpur-37439",
-  "https://www.shiksha.com/university/siddharth-university-uttar-pradesh-other-59051",
-  "https://www.shiksha.com/college/praxis-tech-school-kolkata-salt-lake-city-213659",
-  "https://www.shiksha.com/college/aditya-college-of-engineering-andhra-pradesh-other-37548",
-  "https://www.shiksha.com/college/international-school-of-hospitality-management-salt-lake-city-kolkata-56013",
-  "https://www.shiksha.com/university/karnataka-state-akkamahadevi-women-s-university-bijapur-58779",
-  "https://www.shiksha.com/college/vanita-vishram-women-s-university-surat-69309",
-  "https://www.shiksha.com/college/university-evening-college-mangalore-184897",
-  "https://www.shiksha.com/college/rathinam-school-of-business-bangalore-215807",
-  "https://www.shiksha.com/college/mohamed-sathak-engineering-college-msec-tamil-nadu-other-23631",
-  "https://www.shiksha.com/college/interscience-institute-of-management-and-technology-bhubaneswar-31081",
-  "https://www.shiksha.com/college/nalanda-institute-of-technology-bhubaneswar-37904",
-  "https://www.shiksha.com/college/indus-college-of-engineering-bhubaneswar-42606",
-  "https://www.shiksha.com/college/kiet-east-godavari-46540",
-  "https://www.shiksha.com/college/baba-farid-college-baba-farid-group-of-institutions-bathinda-52971",
-  "https://www.shiksha.com/college/rayat-bahra-university-powered-by-sunstone-mohali-151293",
-  "https://www.shiksha.com/college/al-quarmoshi-institute-of-business-management-aqibm-hyderabad-barkas-19489",
-  # "https://www.shiksha.com/college/national-institute-of-business-management-thiruvanmiyur-chennai-25169",
-  # "https://www.shiksha.com/college/noble-university-junagadh-60125",
-  # "https://www.shiksha.com/college/shalby-academy-prahlad-nagar-ahmedabad-105883",
-  # "https://www.shiksha.com/college/jagruti-p-g-college-narayanguda-hyderabad-21738",
-  # "https://www.shiksha.com/college/aimfill-international-jayanagar-bangalore-37095",
-  # "https://www.shiksha.com/college/madhav-institute-of-technology-and-science-gwalior-38165",
-  # "https://www.shiksha.com/college/c-z-patel-college-of-business-and-management-cvm-university-anand-28518",
-  # "https://www.shiksha.com/college/chouksey-group-of-colleges-bilaspur-43163",
-  # "https://www.shiksha.com/college/seshadripuram-college-seshadripuram-bangalore-48062",
-  # "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-ahmedabad-gandhinagar-64289",
+  # "https://www.shiksha.com/university/baddi-university-of-emerging-sciences-and-technology-36922",
+  # "https://www.shiksha.com/college/indore-international-college-157113",
+  # "https://www.shiksha.com/college/iilm-institute-for-business-and-management-gurgaon-27864",
+  # "https://www.shiksha.com/college/krishna-group-of-institutions-kanpur-37439",
+  # "https://www.shiksha.com/university/siddharth-university-uttar-pradesh-other-59051",
+  # "https://www.shiksha.com/college/praxis-tech-school-kolkata-salt-lake-city-213659",
+  # "https://www.shiksha.com/college/aditya-college-of-engineering-andhra-pradesh-other-37548",
+  # "https://www.shiksha.com/college/international-school-of-hospitality-management-salt-lake-city-kolkata-56013",
+  # "https://www.shiksha.com/university/karnataka-state-akkamahadevi-women-s-university-bijapur-58779",
+  # "https://www.shiksha.com/college/vanita-vishram-women-s-university-surat-69309",
+  # "https://www.shiksha.com/college/university-evening-college-mangalore-184897",
+  # "https://www.shiksha.com/college/rathinam-school-of-business-bangalore-215807",
+  # "https://www.shiksha.com/college/mohamed-sathak-engineering-college-msec-tamil-nadu-other-23631",
+  # "https://www.shiksha.com/college/interscience-institute-of-management-and-technology-bhubaneswar-31081",
+  # "https://www.shiksha.com/college/nalanda-institute-of-technology-bhubaneswar-37904",
+  # "https://www.shiksha.com/college/indus-college-of-engineering-bhubaneswar-42606",
+  # "https://www.shiksha.com/college/kiet-east-godavari-46540",
+  # "https://www.shiksha.com/college/baba-farid-college-baba-farid-group-of-institutions-bathinda-52971",
+  # "https://www.shiksha.com/college/rayat-bahra-university-powered-by-sunstone-mohali-151293",
+  # "https://www.shiksha.com/college/al-quarmoshi-institute-of-business-management-aqibm-hyderabad-barkas-19489",
+  "https://www.shiksha.com/college/national-institute-of-business-management-thiruvanmiyur-chennai-25169",
+  "https://www.shiksha.com/college/noble-university-junagadh-60125",
+  "https://www.shiksha.com/college/shalby-academy-prahlad-nagar-ahmedabad-105883",
+  "https://www.shiksha.com/college/jagruti-p-g-college-narayanguda-hyderabad-21738",
+  "https://www.shiksha.com/college/aimfill-international-jayanagar-bangalore-37095",
+  "https://www.shiksha.com/college/madhav-institute-of-technology-and-science-gwalior-38165",
+  "https://www.shiksha.com/college/c-z-patel-college-of-business-and-management-cvm-university-anand-28518",
+  "https://www.shiksha.com/college/chouksey-group-of-colleges-bilaspur-43163",
+  "https://www.shiksha.com/college/seshadripuram-college-seshadripuram-bangalore-48062",
+  "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-ahmedabad-gandhinagar-64289",
 ]
 
 def build_urls(BASE_URL):
@@ -9271,7 +9271,7 @@ def parse_faq_scholarships_section(driver, URLS):
 def scrape_mba_colleges():
     driver = create_driver()
     all_data = []
-    c_count =1171
+    c_count =1191
 
     try:
         for base_url in BASE_URL:
